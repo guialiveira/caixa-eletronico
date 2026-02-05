@@ -1,7 +1,9 @@
-Projeto de um caixa eletronico em C#.
+Projeto de um caixa eletronico em C#.NET 6
 
-Est· dividido em 5 pastas com a evoluÁ„o na implementaÁ„o, aplicando conceitos de delegate, eventos e expresıes lambda em C#
+Est√° dividido em 5 pastas com a evolu√ß√£o na implementa√ß√£o, aplicando conceitos de delegate, eventos e expres√µes lambda em C#
 
-A vers„o final do projeto contem uma lista com varios clientes que tem agencia e conta. 
+A vers√£o final do projeto contem uma lista com varios clientes que tem agencia e conta. 
 O sistema guarda o saldo de cada cliente (em memoria) e permite que o mesmo realize depositos, saques e consulte o extrato.
 Interface grafica feita em Windons forms.
+
+Para executar sete mutiplos projetos de inicializa√ß√£o. tanto a API quanto o Front da aula 5
